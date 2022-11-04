@@ -10,7 +10,7 @@ O código sofreu algumas alterações nos principais pontos abordados nessa fase
 ![preview](preview.jpg)
 
 
-[🔗 Clique aqui para acessar](https://fabiovascao.github.io/Projeto-01/)
+[🔗 Clique aqui para acessar](https://fabiovascao.github.io/Projeto-02/)
 
 ## 🛠 Tecnologias
 
