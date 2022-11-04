@@ -1,5 +1,24 @@
-# Projeto 02 - Programa Explorer da Rocketseat - Stage 02
+# Desafio Corrigindo bugs (02)
 
-Alterei algumas medidas de margin/padding para deixar um pouco menor do que o projeto original, as demais arrumei conforme era a idéia original.
+Desafio do Stage02 que faz parte do Programa Explorer da Rocketseat.<br/>
+Nesse desafio, você receberá um código com o projeto desenvolvido durante as aulas da Fase 02.<br/>
+E, novamente, a surpresa (não tão surpresa assim) vem aí...  👀  <br/>
+O código sofreu algumas alterações nos principais pontos abordados nessa fase e, como podemos ver na imagem abaixo, ele não está mais da mesma forma que o Maykão deixou.
 
-Tecnologias utilizadas: HTML - CSS - Git e Github.
+## Screenshots
+
+![preview](preview.jpg)
+
+
+[🔗 Clique aqui para acessar](https://fabiovascao.github.io/Projeto-01/)
+
+## 🛠 Tecnologias
+
+- HTML
+- CSS
+- Git e Github
+
+
+## Autor
+
+- [@FabioVascão](https://www.github.com/fabiovascao)
